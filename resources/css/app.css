@@ -1,5 +1,11 @@
-/* 
- * application styles go here 
- */
- 
- 
+/* custom application styles go here */
+
+/* Globals */
+.content        {padding:.5em .5em 0;}
+
+/* Containers */
+.main           {}
+.tab1           {}
+.tab2           {}
+.tab3           {}
+.tab4           {}
