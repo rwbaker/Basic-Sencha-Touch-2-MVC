@@ -42,7 +42,7 @@ The `lib` folder is used to hold all your library packages used to build the app
 
 The `lib` folder doesn't appear to be a reserved folder name, though, it seems standard practice in most other ST apps.
 
-### resources`
+### resources
 
 The `resources` folder is used to hold other application-related files such as your CSS or images.
 
