@@ -9,7 +9,7 @@
 Ext.define('App.view.Tab4', {
     extend  : 'Ext.Panel',
     alias   : 'widget.tab4',
-    title   : 'Tab One',
+    title   : 'Tab Four',
     config: {
         title       : 'Tab Four',
         iconCls     : 'star',
