@@ -2,7 +2,6 @@
 
 ## Folder Structure
 
-
     app.js
     app
         controller
