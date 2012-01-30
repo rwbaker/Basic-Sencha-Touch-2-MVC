@@ -3,20 +3,20 @@
 ## Folder Structure
 
     app.js
-    app
-        controller
-        model
-        proxy
-        store
-        view
-    data
-    lib
-        touch
+    app/
+        controller/
+        model/
+        proxy/
+        store/
+        view/
+    data/
+    lib/
+        touch/
             (sencha touch library)
-    resources
-        css
-        images
-    themes
+    resources/
+        css/
+        images/
+    themes/
 
 
 
