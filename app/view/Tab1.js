@@ -1,6 +1,7 @@
 /*
  * @class App.view.Tab1
  * @extends Ext.Panel
+ * @docs http://docs.sencha.com/touch/2-0/#!/api/Ext.tab.Panel
  *
  * View for 'Tab1'.
  */
